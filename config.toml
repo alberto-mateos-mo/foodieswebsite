@@ -1,0 +1,40 @@
+baseurl = "/"
+languageCode = "sp"
+defaultContentLanguage = "sp"
+title = "Hugo Theme Dream"
+theme = "hugo-theme-dream"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "#74155b"
+
+  author = "Vamos a comer."
+  description = "Un blog foodie lleno de historias, reseñas y recetas."
+  avatar = "/img/avatar.jpg"
+  motto = "Crónicas de foodies."
+  
+  #email = ""
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "#929a99"
+  darkNav = true 
+  dark404Button = true

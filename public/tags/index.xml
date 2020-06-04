@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Theme Dream</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Hugo Theme Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sp</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenido</title>
+      <link>/tags/bienvenido/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bienvenido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comida</title>
+      <link>/tags/comida/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/comida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recetas</title>
+      <link>/tags/recetas/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/recetas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
