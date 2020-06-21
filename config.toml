@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "sp"
-defaultContentLanguage = "sp"
+languageCode = "es"
+defaultContentLanguage = "es"
 title = "Hugo Theme Dream"
 theme = "hugo-theme-dream"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
